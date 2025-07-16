@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Tim
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Cybersecurity+Student;Python+Enthusiast;Open+Source+Advocate;IndieWeb+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Lifelong+Student;Python+Enthusiast;Open+Source+Advocate;IndieWeb+Explorer;Vibe+Coder" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
