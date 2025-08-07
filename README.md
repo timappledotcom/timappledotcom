@@ -6,20 +6,21 @@
 
 ## 🚀 About Me
 
-🔐 **Cybersecurity Journey**: Just finished sharpening my skills at the SANS Cyber Security Academy
-🐍 **Python Lover**: Building tools, running systems, and solving problems
-💻 **OS Agnostic**: Comfortable across Linux, Windows, macOS - the right tool for the job, but lives on Linux
-🌐 **IndieWeb Enthusiast**: Believer in owning your digital presence
+🤷 **Professional Procrastinator**: Creator of "what-next" because apparently I need an app to tell me what to do with my life
+📝 **Serial Note-Taker**: Built "jotdown" and "blogster" because my brain has the retention capacity of a goldfish
+🖖 **Closet Trekkie**: Yes, I have a repo called "trekkie" - Live Long and Prosper, and may your code compile on the first try
+🔐 **Reformed Script Kiddie**: Graduated from SANS Cyber Security Academy (they actually gave me a certificate!)
+📱 **App Addict**: "bapp" exists because I clearly don't have enough apps in my life already
+👥 **Y'all Whisperer**: Built "yall" - because sometimes you need code that speaks Southern
+🐧 **Linux Evangelist**: Will judge your OS choice, but I'll do it with a smile and offer you help switching distros
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![KDE](https://img.shields.io/badge/KDE-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
-![Plasma](https://img.shields.io/badge/Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
