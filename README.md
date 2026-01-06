@@ -7,12 +7,19 @@
 ## 🚀 About Me
 
 🖖 **Closet Trekkie**: Built "trekkie" to track 800+ Star Trek episodes in chronological order - Live Long and Prosper, and may your code compile on the first try
+
 🎧 **Podcast Hoarder**: Created "bapp" because apparently the world needed another podcast app (currently in the prestigious "works on my machine" phase)
+
 💪 **Fitness Procrastinator**: Made "Swole-Timer" to time my workouts - now I have no excuse except pure laziness
+
 🤖 **AI Tinkerer**: Cooking up "autonomix" because I'm too lazy to do things myself (see a pattern here?)
+
 🏛️ **Digital Monk**: Built "Abbey" - what happens there stays in the repo
-📊 **Manager of Managers**: "MB-Manager" exists because I needed to manage... something. Still figuring out what.
+
+📊 **Manager of Managers**: "MB-Manager" exists because I needed to manage... something. Still figuring out.
+
 🔐 **Reformed Script Kiddie**: Graduated from SANS Cyber Security Academy (they actually gave me a certificate!)
+
 🐧 **Linux Evangelist**: Will judge your OS choice, but I'll do it with a smile and offer you help switching distros
 
 ## 🛠️ Tech Stack
@@ -38,15 +45,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=timappledotcom&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=timappledotcom&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=timappledotcom&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timappledotcom&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+![GitHub Streak](https://streak-stats.demolab.com?user=timappledotcom&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=timappledotcom&layout=compact&theme=radical&hide_border=true&langs_count=6)
+
 </div>
 
 ## 🤝 Let's Connect
