@@ -42,28 +42,14 @@
 - 📚 **Exploring**: OSINT techniques and pen testing
 - 🌱 **Growing**: My understanding of threat intelligence
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=timappledotcom&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=timappledotcom&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=timappledotcom&layout=compact&theme=radical&hide_border=true&langs_count=6)
-
-</div>
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://blog.timapple.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://timapple.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/timappledotcom)
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://fosstodon.org/@timapple)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/parzzix.com)
-[![Nostr](https://img.shields.io/badge/Nostr-8B5CF6?style=for-the-badge&logo=nostr&logoColor=white)](https://your-nostr-profile)
+[![Micro.blog](https://img.shields.io/badge/Micro.blog-FF8800?style=for-the-badge&logo=microdotblog&logoColor=white)](https://micro.blog/timapple)
 
 </div>
 
