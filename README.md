@@ -6,12 +6,13 @@
 
 ## 🚀 About Me
 
-🤷 **Professional Procrastinator**: Creator of "what-next" because apparently I need an app to tell me what to do with my life
-📝 **Serial Note-Taker**: Built "jotdown" and "blogster" because my brain has the retention capacity of a goldfish
-🖖 **Closet Trekkie**: Yes, I have a repo called "trekkie" - Live Long and Prosper, and may your code compile on the first try
+🖖 **Closet Trekkie**: Built "trekkie" to track 800+ Star Trek episodes in chronological order - Live Long and Prosper, and may your code compile on the first try
+🎧 **Podcast Hoarder**: Created "bapp" because apparently the world needed another podcast app (currently in the prestigious "works on my machine" phase)
+💪 **Fitness Procrastinator**: Made "Swole-Timer" to time my workouts - now I have no excuse except pure laziness
+🤖 **AI Tinkerer**: Cooking up "autonomix" because I'm too lazy to do things myself (see a pattern here?)
+🏛️ **Digital Monk**: Built "Abbey" - what happens there stays in the repo
+📊 **Manager of Managers**: "MB-Manager" exists because I needed to manage... something. Still figuring out what.
 🔐 **Reformed Script Kiddie**: Graduated from SANS Cyber Security Academy (they actually gave me a certificate!)
-📱 **App Addict**: "bapp" exists because I clearly don't have enough apps in my life already
-👥 **Y'all Whisperer**: Built "yall" - because sometimes you need code that speaks Southern
 🐧 **Linux Evangelist**: Will judge your OS choice, but I'll do it with a smile and offer you help switching distros
 
 ## 🛠️ Tech Stack
@@ -37,11 +38,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=timappledotcom&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=timappledotcom&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=timappledotcom&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=timappledotcom&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timappledotcom&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🤝 Let's Connect
