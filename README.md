@@ -47,9 +47,10 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://timapple.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/timappledotcom)
-[![Micro.blog](https://img.shields.io/badge/Micro.blog-FF8800?style=for-the-badge&logo=microdotblog&logoColor=white)](https://micro.blog/timapple)
+### 🌐 [timapple.com](https://timapple.com)
+
+<a href="https://x.com/timappledotcom" target="_blank"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://micro.blog/timapple" target="_blank"><img src="https://img.shields.io/badge/-FF8800?style=for-the-badge&logo=microdotblog&logoColor=white" alt="Micro.blog"/></a>
 
 </div>
 
